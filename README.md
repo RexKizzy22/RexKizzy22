@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋🏼, I'm Kizito 💫</h1>
+<h1 align="center">Hi there! 👋🏼, I'm Emmanuel Inegbenose 💫</h1>
 
 <h3 align="center">A Polyglot Full Stack Software Programmer</h3>
 
