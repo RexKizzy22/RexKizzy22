@@ -1,6 +1,10 @@
-<h1 align="center">Hi there! 👋🏼, I'm Emmanuel Inegbenose 💫</h1>
+<h1 align="center">Hi there! 👋🏼, I'm Emmanuel Inegbenose</h1>
 
-<h3 align="center">A Polyglot Full Stack Software Programmer</h3>
+<h3 align="center"> 💫 A Polyglot Full Stack Software Programmer and Technical Writer</h3>
+
+<p align="center"> 📚 Blog: <a target="_blank" href="https://kizzy.hashnode.dev" style="display: inline-block;">kizzy.hashnode.dev</a> </p>
+
+<p align="center"> ⚡️ I am currently learning Scala </p>
 
 <p align="center"> 📫 How to reach me: kizitoinegbenose@gmail.com </p>
 
