@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! 👋🏼, I'm Emmanuel Inegbenose</h1>
 
-<h4 align="center"> 💫 A Polyglot Full Stack Software Programmer and Technical Writer</h4>
+<h4 align="center"> 💫 A Polyglot Full Stack Programmer and Technical Writer</h4>
+
+<p align="center"> ⚡️ Interested in Functional Programming, UI, Cloud and Data Engineering </p>
 
 <p align="center"> 📚 Blog: <a target="_blank" href="https://kizzy.hashnode.dev" style="display: inline-block;">kizzy.hashnode.dev</a> </p>
-
-<p align="center"> ⚡️ I am currently learning Scala </p>
 
 <p align="center"> 📫 How to reach me: kizitoinegbenose@gmail.com </p>
 
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala">
   <img src="https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white" alt="Elm">
+  <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" alt="F#">
 </p>
 
 <h2 align="center"> 💻 Frontend Tools</h2>
